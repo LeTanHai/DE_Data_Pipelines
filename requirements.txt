@@ -1,0 +1,5 @@
+apache-airflow
+boto3
+psycopg2
+apache-airflow-providers-postgres
+apache-airflow-providers-amazon
